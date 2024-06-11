@@ -1,8 +1,8 @@
 👋 Hi there!
 
-⭐ My name is Gustavo Kasper and I'm a technology enthusiast!
+⭐ My name's Gustavo Kasper and I'm a technology enthusiast!
 
-👀 I am interested in front-end areas and the JavaScript ecosystem.
+👀 I'm interested in front-end areas and the JavaScript ecosystem.
 
 📚 I'm currently taking the EBAC Full Stack Phtyon Developer course.
 
