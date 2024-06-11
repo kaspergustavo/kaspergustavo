@@ -16,6 +16,7 @@
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt=-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Sass" width="40" height="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>
+  <img align="center" alt="Less" width="40" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg"/>
   <img align="center" alt="Bootstrap" width="40" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"/>
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
