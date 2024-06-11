@@ -1,4 +1,4 @@
-👋 Hi there!
+<h1>👋 Hi there!</h1>
 
 ⭐ My name's Gustavo Kasper and I'm a technology enthusiast!
 
